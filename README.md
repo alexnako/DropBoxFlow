@@ -1,5 +1,6 @@
 # DropBoxFlow
 CodePath week 1 assignment
+https://courses.codepath.com/courses/ios_for_designers/unit/1#!assignment
 
 Basic DropBox Flow, including:
 - Welcome caroussel
