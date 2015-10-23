@@ -8,6 +8,8 @@ Basic DropBox Flow, including:
 - Tab views for both cases
 - logout on Settings takes user back to Welcome
 
+![alt tag] (https://raw.githubusercontent.com/alexnako/DropBoxFlow/master/screenshots/dropbox-basic-flow.gif)
+
 Time spent: 3 hours
 
 NOTE: This is just the basic flow, optional features pending
